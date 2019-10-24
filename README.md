@@ -1,0 +1,1 @@
+# Django-admin nginx & Guniorn Pracitice
